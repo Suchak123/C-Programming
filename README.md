@@ -1,0 +1,3 @@
+# C-Programming
+
+Hey this is my first project in a team in C-Programming Language. It is a begineer friendly simple quiz game model. Give it a try ...
